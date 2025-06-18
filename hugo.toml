@@ -1,7 +1,7 @@
 baseURL = 'https://github.com/emsimons/personal-website/'
 languageCode = 'en-us'
 title = 'Emily M. Simons'
-theme = 'PaperMod'
+theme = 'papermod'
 
 [caches]
   [caches.images]

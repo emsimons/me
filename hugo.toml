@@ -2,6 +2,7 @@ baseURL = 'https://emsimons.github.io/me/'
 languageCode = 'en-us'
 title = 'Emily M. Simons'
 theme = 'papermod'
+enableEmoji = true
 
 [markup]
   [markup.goldmark]

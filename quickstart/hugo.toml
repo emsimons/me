@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://github.com/emsimons/personal-website/'
 languageCode = 'en-us'
 title = 'Emily M. Simons'
 theme = 'PaperMod'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

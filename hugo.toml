@@ -4,6 +4,19 @@ title = 'Emily M. Simons'
 theme = 'papermod'
 enableEmoji = true
 
+[menu]
+  [[menu.main]]
+  identifier = "CV"
+  name = "CV"
+  url = "/files/cv.pdf"
+  weight = 1
+
+  [[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight = 2
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.parser]
@@ -14,3 +27,6 @@ enableEmoji = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params.assets]
+  customCSS = ["css/custom.css"]

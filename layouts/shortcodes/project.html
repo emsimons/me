@@ -1,0 +1,34 @@
+<div class="project-card">
+    {{ $project := .Get 0 }}
+    {{ $project :=  index .Site.Data.projects $project }}
+    <div>
+        <figure>
+            <img src="/me/projects/{{ $project.image }}" height="180" alt="{{ $project.name }}" />
+        </figure>
+    </div>
+    <div>
+        <div class="project-title">{{ $project.name }}</div>
+        <div style="display: inline-flex; gap: 10px; align-items: center;">
+            {{ if $project.pub }}
+                <a href="{{ $project.pub }}" target="_blank">
+                    <img src="/me/projects/icons/paper-icon.svg" style="width:45px;" alt="Paper Icon" class="svg-icon"/>
+                </a>
+            {{ end }}
+            {{ if $project.repo }}
+                <a href="{{ $project.repo }}" target="_blank">
+                    <img src="/me/projects/icons/repo-icon.svg" style="width:45px;" alt="GitHub Icon" class="svg-icon"/>
+                </a>
+            {{ end }}
+            {{ if $project.site }}
+                <a href="{{ $project.site }}" target="_blank">
+                    <img src="/me/projects/icons/website-icon.svg" style="width:45px;" alt="Website Icon" class="svg-icon"/>
+                </a>
+            {{ end }}
+        </div>
+        <div>
+            <span>
+            {{ $project.description | markdownify }}
+            </span>
+        </div>
+    </div>
+</div>

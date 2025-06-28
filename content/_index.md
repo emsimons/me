@@ -3,11 +3,11 @@
 
 # Hi, I'm Emily.
 
-## Let me introduce myself.
+{{< image-card title="Let me introduce myself." subtitle="" img="headshot.jpg" >}}
+I am currently based in Munich as a visiting student with the AI for Data-Oriented Science ([AIDOS](https://aidos.group/)) Lab, under the supervision of [Dr. Bastian Rieck](https://bastian.rieck.me/).
 
-I am currently based in Munich as a visiting student with the AI for Data-Oriented Science ([AIDOS](https://aidos.group/)) Lab, under the supervision of Dr. Bastian Rieck. I am funded by a [Fulbright Study/Research](https://us.fulbrightonline.org/) grant, and am co-affiliated with [Helmholtz Munich](https://www.helmholtz-munich.de/) and the [Technical University of Munich](https://www.tum.de/).
-
-You can access my CV [here](files/cv.pdf).
+I am funded by a [Fulbright Study/Research](https://us.fulbrightonline.org/) grant, and am co-affiliated with [Helmholtz Munich](https://www.helmholtz-munich.de/) and the [Technical University of Munich](https://www.tum.de/).
+{{< /image-card >}}
 
 I firmly believe in and am committed to upholding [Dr. Federico Ardila-Mantilla’s](https://fardila.com/) axioms:
 

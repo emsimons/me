@@ -4,5 +4,4 @@ description     = """\
           SCOTT is a Python package for computing **curvature filtrations** for graphs and graph distributions. Our method introduces a novel way to compare graph distributions by combining discrete curvature on graphs with persistent homology, providing descriptors of graph sets that are: *robust*, *stable*, *expressive*, and *compatible with statistical testing*.
           """
 repo    = "https://github.com/aidos-lab/curvature-filtrations"
-pub     = "https://doi.org/10.48550/arXiv.2301.12906"
-site    = "https://aidos.group/curvature-filtrations/"
+docs    = "https://aidos.group/curvature-filtrations/"

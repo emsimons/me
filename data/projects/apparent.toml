@@ -3,4 +3,6 @@ image   = "apparent.jpg"
 description     = """\
 APPARENT is an interactive dashboard for analyzing healthcare networks. By providing access to precomputed descriptions of patient referral networks, we aim to help users better understand, analyze, and improve care delivery in the United States. Our mission is to put advanced analytical methods from graph theory, network science, and machine learning at the fingertips of healthcare professionals. Use APPARENT to explore local or global trends in referral networks with our built-in dashboards, or design your own SQL queries to directly access the underlying database. For more advanced users, we also maintain the APPARENT Python library for custom construction and analysis of referral networks.
 """
+docs    = "https://aidos.group/apparent/"
+repo    = "https://github.com/aidos-lab/apparent"
 site    = "https://apparent.topology.rocks/"

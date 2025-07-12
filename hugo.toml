@@ -8,7 +8,7 @@ enableEmoji = true
   [[menu.main]]
   identifier = "CV"
   name = "CV"
-  url = "/files/cv.pdf"
+  url = "/files/emily-simons-cv.pdf"
   weight = 1
 
   [[menu.main]]

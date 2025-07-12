@@ -29,6 +29,11 @@
                     <img src="/me/projects/icons/docs-icon.svg" style="width:45px;" alt="Code Docs Icon" class="svg-icon"/>
                 </a>
             {{ end }}
+            {{ if $project.poster }}
+                <a href="{{ $project.poster }}" target="_blank">
+                    <img src="/me/projects/icons/poster-icon.svg" style="width:45px;" alt="Poster Icon" class="svg-icon"/>
+                </a>
+            {{ end }}
         </div>
         <div>
             <span>

@@ -9,6 +9,11 @@
     <div>
         <div class="project-title">{{ $project.name }}</div>
         <div style="display: inline-flex; gap: 10px; align-items: center;">
+            {{ if $project.site }}
+                <a href="{{ $project.site }}" target="_blank">
+                    <img src="/me/projects/icons/website-icon.svg" style="width:45px;" alt="Website Icon" class="svg-icon"/>
+                </a>
+            {{ end }}
             {{ if $project.pub }}
                 <a href="{{ $project.pub }}" target="_blank">
                     <img src="/me/projects/icons/paper-icon.svg" style="width:45px;" alt="Paper Icon" class="svg-icon"/>
@@ -16,12 +21,12 @@
             {{ end }}
             {{ if $project.repo }}
                 <a href="{{ $project.repo }}" target="_blank">
-                    <img src="/me/projects/icons/repo-icon.svg" style="width:45px;" alt="GitHub Icon" class="svg-icon"/>
+                    <img src="/me/projects/icons/repo-icon.svg" style="width:45px;" alt="Code Repo Icon" class="svg-icon"/>
                 </a>
             {{ end }}
-            {{ if $project.site }}
-                <a href="{{ $project.site }}" target="_blank">
-                    <img src="/me/projects/icons/website-icon.svg" style="width:45px;" alt="Website Icon" class="svg-icon"/>
+            {{ if $project.docs }}
+                <a href="{{ $project.docs }}" target="_blank">
+                    <img src="/me/projects/icons/docs-icon.svg" style="width:45px;" alt="Code Docs Icon" class="svg-icon"/>
                 </a>
             {{ end }}
         </div>

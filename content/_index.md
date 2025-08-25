@@ -1,13 +1,18 @@
-***News:*** *I'll be at [ICML 2025](https://icml.cc/) in Vancouver from July 13-20, representing our accepted publication [No Metric to Rule Them All: Toward Principled Evaluations of Graph-Learning Datasets](https://doi.org/10.48550/arXiv.2502.02379). Let me know if you'll be there!*
+***August 2025:*** *Read Dr. Bastian Rieck's blog post about my research stay at his lab and the importance of academic exchange programs akin to Fulbright — now more than ever. You can check it out [here](https://bastian.rieck.me/blog/2025/fulbright/).*
+{class="news-block"}
+
+***July 2025:*** *Check out [my blog post](https://aidos.group/blog/rings/) about our recent paper, [No Metric to Rule Them All: Toward Principled Evaluations of Graph-Learning Datasets](https://doi.org/10.48550/arXiv.2502.02379) ([ICML 2025](https://icml.cc/)).*
 {class="news-block"}
 
 # Hi, I'm Emily.
 
 {{< image-card title="Let me introduce myself." subtitle="" img="headshot.jpg" >}}
-I am currently based in Munich as a visiting student with the AI for Data-Oriented Science ([AIDOS](https://aidos.group/)) Lab, under the supervision of [Dr. Bastian Rieck](https://bastian.rieck.me/).
+I recently returned from my research stay as a visiting student with the AI for Data-Oriented Science ([AIDOS](https://aidos.group/)) Lab under the supervision of [Dr. Bastian Rieck](https://bastian.rieck.me/), funded by the 2024-2025 [Fulbright Study/Research](https://us.fulbrightonline.org/) grant. 
 
-I am funded by a [Fulbright Study/Research](https://us.fulbrightonline.org/) grant, and am co-affiliated with [Helmholtz Munich](https://www.helmholtz-munich.de/) and the [Technical University of Munich](https://www.tum.de/).
+Before that, I completed my bachelor's degree at [Bowdoin College](https://www.bowdoin.edu/), where I majored in math and minored in computer science. Go Polar Bears!
 {{< /image-card >}}
+
+I am the proud younger sister of [Alex Simons](https://sites.google.com/view/alexandersimons/home?authuser=0), a wonderful math PhD student at the University of California, Davis, and, more importantly, a wonderful human.
 
 I firmly believe in and am committed to upholding [Dr. Federico Ardila-Mantilla’s](https://fardila.com/) axioms:
 

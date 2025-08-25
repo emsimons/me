@@ -25,10 +25,10 @@
 </style>
 
 <div class="image-card">
-  <img src="/me/images/{{ .Get "img" }}" alt="{{ .Get "title" }}">
   <div>
     <strong style="font-size:1.1em;">{{ .Get "title" }}</strong><br>
     <em style="color:gray;">{{ .Get "subtitle" }}</em>
     <p style="margin-top:0.5em;">{{ .Inner | markdownify }}</p>
   </div>
+  <img src="/me/images/{{ .Get "img" }}" alt="{{ .Get "title" }}">
 </div>

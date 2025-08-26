@@ -21,7 +21,7 @@ title = 'Emily M. Simons'
 - [George Wood McArthur Prize](https://www.bowdoin.edu/about/prizes/general-scholarship.html) (for pre-matriculation scholarship recipient with highest academic standing) | 2024
 - [Mathematics Department Award](https://www.bowdoin.edu/about/prizes/department-and-program.html) (for contributing to a broad and inclusive mathematical community) | 2022
 - [DAAD Rise Germany Fellowship](https://www.daad.de/rise/en/rise-germany/) | 2022
-- [Faculty Scholar Award](https://www.bowdoin.edu/student-fellowships/faculty-scholars/index.html) (highest possible honor offered to incoming Bowdoin students upon matriculation) | 2020
+- [Faculty Scholar Award](https://www.bowdoin.edu/student-fellowships/faculty-scholars/index.html) ($3,000 cash award granted to incoming Bowdoin students based on merit) | 2020
 
 ## Experience
 

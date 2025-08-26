@@ -1,4 +1,4 @@
-<div class="project-card">
+<div class="entry">
     {{ $project := .Get 0 }}
     {{ $project :=  index .Site.Data.projects $project }}
     <div>
@@ -7,7 +7,7 @@
         </figure>
     </div>
     <div>
-        <div class="project-title">{{ $project.name }}</div>
+        <div class="title">{{ $project.name }}</div>
         <div style="display: inline-flex; gap: 10px; align-items: center;">
             {{ if $project.site }}
                 <a href="{{ $project.site }}" target="_blank">

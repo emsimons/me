@@ -4,15 +4,22 @@
     border-radius: 10px;
 }
 
-.project-card {
+.entry {
   display: flex;
   /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
   padding: 10px;
   flex-wrap  : wrap;
 }
 
-.project-title {
+.title {
     font-size  : 1.50rem;
+    font-weight: bold; 
+    /*font-size: larger;*/
+    flex: 4; /* Takes up 60% of the space */
+}
+
+.subtitle {
+    font-size  : 1.15rem;
     font-weight: bold; 
     /*font-size: larger;*/
     flex: 4; /* Takes up 60% of the space */

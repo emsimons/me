@@ -1,0 +1,16 @@
+<div class="entry">
+    {{ $cv := .Get 0 }}
+    {{ $cv :=  index .Site.Data.cv $cv }}
+    <div>
+        <div class="title">{{ $cv.institution }}</div>
+            <div class="subtitle">{{ $cv.role }}</div>
+            <div style="font-style: italic;">{{ $cv.dates }} | {{ $cv.location }}</div>
+            {{ if $cv.description }}
+            <div>
+                <span>
+                {{ $cv.description | markdownify }}
+                </span>
+            </div>
+            {{end}}
+    </div>
+</div>

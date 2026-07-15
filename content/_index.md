@@ -7,9 +7,9 @@
 # Hi, I'm Emily.
 
 {{< image-card title="Let me introduce myself." subtitle="" img="headshot.jpg" >}}
-I recently returned from my research stay as a visiting student with the AI for Data-Oriented Science ([AIDOS](https://aidos.group/)) Lab under the supervision of [Dr. Bastian Rieck](https://bastian.rieck.me/), funded by the 2024-2025 [Fulbright Study/Research](https://us.fulbrightonline.org/) grant. 
+I am a Senior Computational Research Associate at AI Proteins, a startup dedicated to designing *de novo* miniprotein therapeutics. Check us out [here](https://www.aiproteins.com/).
 
-Before that, I completed my bachelor's degree at [Bowdoin College](https://www.bowdoin.edu/), where I majored in math and minored in computer science. Go Polar Bears!
+Before that, I was a visiting student with the AI for Data-Oriented Science ([AIDOS](https://aidos.group/)) Lab under the supervision of [Dr. Bastian Rieck](https://bastian.rieck.me/), funded by the 2024-2025 [Fulbright Study/Research](https://us.fulbrightonline.org/) grant. Previously, I completed my bachelor's degree at [Bowdoin College](https://www.bowdoin.edu/), where I majored in math and minored in computer science. Go Polar Bears!
 {{< /image-card >}}
 
 I am the proud younger sister of [Alex Simons](https://sites.google.com/view/alexandersimons/home?authuser=0), a wonderful math PhD student at the University of California, Davis, and, more importantly, a wonderful human.
@@ -31,8 +31,6 @@ You can find me on:
 **LinkedIn**: [https://www.linkedin.com/in/simons-emily/](https://www.linkedin.com/in/simons-emily/)
 
 **GitHub**: [https://github.com/emsimons](https://github.com/emsimons)
-
-**ORCID**: [https://orcid.org/0009-0001-5725-594X](https://orcid.org/0009-0001-5725-594X)
 
 **Bluesky**: [https://bsky.app/profile/emsimons.bsky.social](https://bsky.app/profile/emsimons.bsky.social)
 

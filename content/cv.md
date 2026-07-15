@@ -25,6 +25,8 @@ title = 'Emily M. Simons'
 
 ## Experience
 
+{{< cv "aip_scra" >}}
+{{< cv "aip_cra" >}}
 {{< cv "fulbright" >}}
 {{< cv "research-asst-bowdoin" >}}
 {{< cv "mitre" >}}

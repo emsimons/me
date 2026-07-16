@@ -6,7 +6,7 @@
 
 # Hi, I'm Emily.
 
-{{< image-card title="Let me introduce myself." subtitle="" img="headshot.jpg" >}}
+{{< image-card title="Let me introduce myself." subtitle="" img="aip-headshot.png" >}}
 I am a Senior Computational Research Associate at AI Proteins, a startup dedicated to designing *de novo* miniprotein therapeutics. Check us out [here](https://www.aiproteins.com/).
 
 Before that, I was a visiting student with the AI for Data-Oriented Science ([AIDOS](https://aidos.group/)) Lab under the supervision of [Dr. Bastian Rieck](https://bastian.rieck.me/), funded by the 2024-2025 [Fulbright Study/Research](https://us.fulbrightonline.org/) grant. Previously, I completed my bachelor's degree at [Bowdoin College](https://www.bowdoin.edu/), where I majored in math and minored in computer science. Go Polar Bears!
